@@ -1,6 +1,7 @@
 body {
  /* background-image: url("/img/alvaro-reyes-qWwpHwip31M-unsplash.jpg"); */
-  background: #ecf01c;
+ /* background: #ecf01c; */
+ background-image: url("../img/anywhere-bulletin-post.webp");
 }
 div, nav, p, h1, h2, h3, ul, li, header, footer {
 background: rgba(240, 177, 155, 0.1)
